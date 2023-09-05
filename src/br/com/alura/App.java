@@ -15,7 +15,7 @@ public class App {
 
         ReajusteSalarioService reajusteSalarioService = new ReajusteSalarioService();
 
-        reajusteSalarioService.reajustar(f1, new BigDecimal("4"));
+        reajusteSalarioService.reajustar(f1, new BigDecimal("100"));
 
     }
 }
